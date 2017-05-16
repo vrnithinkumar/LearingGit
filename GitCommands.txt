@@ -1,0 +1,8 @@
+add
+====
+	git add "file name"
+	eg: git add . for 
+diff
+=====
+git diff  {it will show }
+git diff --staged {it will show diff in stage }
