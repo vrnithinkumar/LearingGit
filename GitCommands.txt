@@ -29,7 +29,7 @@ checkout
 ========
 	git checkout -- "File name " discard the changes you’ve made
 
-
+If you clone a repository, the command automatically adds that remote repository under the name “origin”. 
 
 Links used
 ============
