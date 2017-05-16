@@ -28,3 +28,9 @@ reset
 checkout
 ========
 	git checkout -- "File name " discard the changes you’ve made
+
+
+
+Links used
+============
+	http://stackoverflow.com/questions/19801455/git-removing-upstream-from-local-repository
