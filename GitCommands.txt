@@ -29,9 +29,6 @@ checkout
 ========
 	git checkout -- "File name " discard the changes you’ve made
 
-<<<<<<< HEAD
-If you clone a repository, the command automatically adds that remote repository under the name “origin”. 
-
 =======
 remote
 ======
@@ -45,7 +42,6 @@ branch
 git checkout -b "branch name"
 
 
->>>>>>> testBranch
 Links used
 ============
 	http://stackoverflow.com/questions/19801455/git-removing-upstream-from-local-repository
