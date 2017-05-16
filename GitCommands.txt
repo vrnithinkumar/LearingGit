@@ -2,7 +2,17 @@ add
 ====
 	git add "file name"
 	eg: git add . for 
+
 diff
 =====
-git diff  {it will show }
-git diff --staged {it will show diff in stage }
+	git diff  {it will show }
+	git diff --staged {it will show diff in stage }
+
+status
+=======
+	git status
+
+commit
+======
+	git commit -m "what is committing"
+	git commit -a -m "with out adding direct commit"
