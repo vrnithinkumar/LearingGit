@@ -8,6 +8,10 @@ diff
 	git diff  {it will show }
 	git diff --staged {it will show diff in stage }
 
+difftool
+========
+	git difftool --staged
+
 status
 =======
 	git status
@@ -16,3 +20,11 @@ commit
 ======
 	git commit -m "what is committing"
 	git commit -a -m "with out adding direct commit"
+
+reset
+=====
+	git reset HEAD "File name to remove from the stage"
+
+checkout
+========
+	git checkout -- "File name " discard the changes you’ve made
