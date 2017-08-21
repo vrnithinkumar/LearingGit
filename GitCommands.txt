@@ -1,3 +1,5 @@
+Basic Commands
+-------------
 add
 ====
 	git add "file name"
@@ -27,15 +29,14 @@ reset
 
 checkout
 ========
-	git checkout -- "File name " discard the changes you’ve made
+	git checkout -- "File name " discard the changes you have made
 
-=======
 remote
 ======
-git remote add "name of the remote " "link to remote"
-git remote remove paul {to remove the remote}
+    git remote add "name of the remote " "link to remote"
+    git remote remove paul {to remove the remote}
 
-If you clone a repository, the command automatically adds that remote repository under the name “origin”. 
+    If you clone a repository, the command automatically adds that remote repository under the name origin. 
 
 branch
 ======
